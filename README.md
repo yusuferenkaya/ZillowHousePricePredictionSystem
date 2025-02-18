@@ -1,7 +1,6 @@
 # housepriceprediction
 House Price Prediction Model trained on some states of the US
 
-![HOUSE PRICE PREDICTION MODEL TRAINED USING LARGE ZILLOW DATASET-01](https://user-images.githubusercontent.com/63504037/210255115-f72ccf35-cba1-4eb1-b63d-6e54a99af2fb.jpg)
 
 ![HOUSE PRICE PREDICTION MODEL TRAINED USING LARGE ZILLOW DATASET-02](https://user-images.githubusercontent.com/63504037/210255141-0258887c-3a6c-49d7-8856-966b67ff0b1b.jpg)
 ![HOUSE PRICE PREDICTION MODEL TRAINED USING LARGE ZILLOW DATASET-03](https://user-images.githubusercontent.com/63504037/210255166-648dba00-96d2-479a-b183-a0d17f1482ac.jpg)
